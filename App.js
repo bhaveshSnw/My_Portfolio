@@ -198,7 +198,7 @@ function Hero() {
           <div className="photo-wrap">
             <div className="photo-ring r1" /><div className="photo-ring r2" /><div className="photo-ring r3" />
             <div className="photo-frame">
-              <img src="./1000319782.png" alt="Bhavesh Sonawane" />
+              <img src="./my_image.jpg" alt="Bhavesh Sonawane" />
               <div className="photo-shine" />
             </div>
             <div className="float-chip chip-a">⚡ Full Stack</div>
